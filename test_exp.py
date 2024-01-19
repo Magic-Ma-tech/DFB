@@ -14,7 +14,7 @@ import random
 import numpy as np
 
 
-random_seed = 0
+random_seed = 42
 np.random.seed(random_seed)
 random.seed(random_seed)
 torch.manual_seed(random_seed)
