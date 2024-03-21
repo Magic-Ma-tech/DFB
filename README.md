@@ -5,7 +5,8 @@
 
 # DFB
 
-This is the official implementation of the paper: DFB: A Data-Free, Low-Budget, and High-Efficacy Clean-Label Backdoor Attack
+This is the official implementation of the paper: DFB: A Data-Free, Low-Budget, and High-Efficacy Clean-Label Backdoor Attack. The POOD dataset can be downloaded from the following link: https://pan.baidu.com/s/1g65ja7q2xIhLqi7K6YLB9g?pwd=r8da
+Extraction code: r8da
 
 
 ## Requirements
